@@ -1,0 +1,173 @@
+.blocks {
+    background-image: url(blocks.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.blocks-tileBlack_01 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -2px;
+}
+
+.blocks-tileBlack_07 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -134px;
+}
+
+.blocks-tileBlack_09 {
+    width: 129px;
+    height: 120px;
+    background-position: -2px -266px;
+}
+
+.blocks-tileBlack_11 {
+    width: 129px;
+    height: 128px;
+    background-position: -2px -390px;
+}
+
+.blocks-tileBlue_01 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -522px;
+}
+
+.blocks-tileBlue_07 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -654px;
+}
+
+.blocks-tileBlue_09 {
+    width: 129px;
+    height: 120px;
+    background-position: -2px -786px;
+}
+
+.blocks-tileBlue_11 {
+    width: 129px;
+    height: 128px;
+    background-position: -2px -910px;
+}
+
+.blocks-tileGreen_01 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -1042px;
+}
+
+.blocks-tileGreen_07 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -1174px;
+}
+
+.blocks-tileGreen_09 {
+    width: 129px;
+    height: 120px;
+    background-position: -2px -1306px;
+}
+
+.blocks-tileGreen_11 {
+    width: 129px;
+    height: 128px;
+    background-position: -2px -1430px;
+}
+
+.blocks-tileGrey_01 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -1562px;
+}
+
+.blocks-tileGrey_07 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -1694px;
+}
+
+.blocks-tileGrey_09 {
+    width: 129px;
+    height: 120px;
+    background-position: -2px -1826px;
+}
+
+.blocks-tileGrey_11 {
+    width: 129px;
+    height: 128px;
+    background-position: -2px -1950px;
+}
+
+.blocks-tilePink_01 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -2082px;
+}
+
+.blocks-tilePink_07 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -2214px;
+}
+
+.blocks-tilePink_09 {
+    width: 129px;
+    height: 120px;
+    background-position: -2px -2346px;
+}
+
+.blocks-tilePink_11 {
+    width: 129px;
+    height: 128px;
+    background-position: -2px -2470px;
+}
+
+.blocks-tileRed_01 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -2602px;
+}
+
+.blocks-tileRed_07 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -2734px;
+}
+
+.blocks-tileRed_09 {
+    width: 129px;
+    height: 120px;
+    background-position: -2px -2866px;
+}
+
+.blocks-tileRed_11 {
+    width: 129px;
+    height: 128px;
+    background-position: -2px -2990px;
+}
+
+.blocks-tileYellow_01 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -3122px;
+}
+
+.blocks-tileYellow_07 {
+    width: 128px;
+    height: 128px;
+    background-position: -2px -3254px;
+}
+
+.blocks-tileYellow_09 {
+    width: 129px;
+    height: 120px;
+    background-position: -2px -3386px;
+}
+
+.blocks-tileYellow_11 {
+    width: 129px;
+    height: 128px;
+    background-position: -2px -3510px;
+}
